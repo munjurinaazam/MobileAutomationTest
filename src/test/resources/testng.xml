@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Munjurina2145/IdeaProjects/MobileAutomationTest/src/test/java"><classes><class name="TestCases.addToCartTest"><methods><include name="tapAddButtonfromProductDetails"/><include name="tapAddButtonShouldSucceed"/><include name="tapCheckoutBtn"/></methods></class><class name="TestCases.checkoutTest"><methods><include name="testCheckoutFromCartPage"/></methods></class></classes></test></suite>
